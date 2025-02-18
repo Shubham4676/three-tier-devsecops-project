@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: front.meghrajdevopsproject.xyz
+    - host: www.meghrajdevopsproject.xyz
       http:
         paths:
           - path: /
